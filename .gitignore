@@ -1,0 +1,13 @@
+# Your own remembered dialog settings (created when you use the add-in)
+last_settings.json
+last_settings.json.tmp
+
+# Python caches
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini
